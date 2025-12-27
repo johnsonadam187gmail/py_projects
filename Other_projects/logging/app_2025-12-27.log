@@ -1,0 +1,16 @@
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+2025-12-27 09:57:07,029 - DEBUG - This is a debug message
+2025-12-27 09:57:07,029 - INFO - This is an info message
+2025-12-27 10:00:42,881 - ERROR - An error occurred: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Adam Johnson\AppData\Local\Temp\ipykernel_31204\1302848075.py", line 2, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-12-27 10:01:38,782 - ERROR - An error occurred
+Traceback (most recent call last):
+  File "C:\Users\Adam Johnson\AppData\Local\Temp\ipykernel_31204\3857115995.py", line 2, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
